@@ -1,15 +1,7 @@
-# 🚀 Welcome to your new awesome project!
+# Tech Quiz Test Suite
 
-This project has been created using **webpack-cli**, you can now run
+## Description
+This project demonstrates testing a web application using Cypress. It includes both component and end-to-end test to ensure reliability.
 
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+## Link to video
+https://drive.google.com/file/d/1do5Y7kwZKvNFY00XE7NHTSe3Zem0hRvg/view

@@ -50,5 +50,6 @@ describe("Tech Quiz End to End", () => {
 
     cy.contains("Quiz Completed").should("be.visible");
     cy.get(".alert.alert-success").should("contain.text", "Your score: 10/10");
+    cy.contains("Take New Quiz")
   });
 });

@@ -8,7 +8,7 @@ describe("Tech Quiz End to End", () => {
   });
 
   it("allows a user to complete the quiz and view their score", () => {
-    cy.visit("http://localhost:3001");
+    cy.visit("http://localhost:3002");
     cy.contains("Start Quiz").click();
 
     // Mock questions
